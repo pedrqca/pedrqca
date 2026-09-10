@@ -56,7 +56,7 @@ INTERESTS
   <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-171717?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-171717?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 </p>
 
 ### Frontend
@@ -120,25 +120,42 @@ FEATURES
 
 ---
 
-## `> github_stats`
+## `> github`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  PROFILE                                    │
+│  ├── github.com/pedrqca                     │
+│  └── Open source • Projects • Learning      │
+│                                              │
+│  ACTIVITY                                    │
+│  ├── Building projects                      │
+│  ├── Improving code                         │
+│  └── Learning every day                     │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrqca&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrqca&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=9CA3AF" />
+[![GitHub followers](https://img.shields.io/github/followers/pedrqca?style=flat-square&logo=github&label=followers)](https://github.com/pedrqca?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/pedrqca?style=flat-square&logo=github&label=stars)](https://github.com/pedrqca?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=pedrqca&style=flat-square&color=8B5CF6&label=profile+views)](https://github.com/pedrqca)
 
 </div>
 
 ---
 
-## `> contribution_graph`
+## `> currently_learning`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrqca&bg_color=0D1117&color=9CA3AF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
+```text
+01  Software Architecture
+02  Backend Development
+03  React & TypeScript
+04  Embedded Systems
+05  Health Technology
+```
 
 ---
 
@@ -158,7 +175,7 @@ FEATURES
 ```text
 ────────────────────────────────────────────────────
 
-            BUILD · LEARN · BREAK · FIX
+              BUILD · LEARN · BREAK · FIX
 
 ────────────────────────────────────────────────────
 ```
