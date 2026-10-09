@@ -1,49 +1,71 @@
-<div align="center">
+ <div align="center">
 
 # `pedrqca`
 
-### `Computer Engineering Student · Software Developer`
+### Computer Engineering Student · Software Developer
+
+Building software, exploring systems, and turning ideas into products.
 
 [![GitHub](https://img.shields.io/badge/GitHub-pedrqca-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedrqca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrqca-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrqca/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pedrqca.dev-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://www.pedrqca.dev)
-
-```text
-┌──(pedrqca㉿github)-[~]
-└─$ whoami
-
-Pedro Henrique
-Computer Engineering Student
-Software Developer | Embedded Systems | Health Technology
-
-┌──(pedrqca㉿github)-[~/status]
-└─$ echo $CURRENT_FOCUS
-
-Building software, learning systems design,
-and turning ideas into useful products.
-
-[■■■■■■■■■■■■■■■■■■■■] SYSTEM ONLINE
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrqca/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://pedrqca.dev)
 
 </div>
 
 ---
 
-## `> about_me`
+## `> whoami`
 
-I'm a **Computer Engineering student at Inatel** focused on software development and the intersection between **software, hardware and technology applied to real-world problems**.
+I'm Pedro Henrique, a **Computer Engineering student at Inatel** passionate about software development and the intersection of software, hardware, and technology.
 
-I enjoy understanding how systems work under the hood, building interfaces with attention to UX, and developing applications with a strong focus on **clean code, architecture and scalability**.
+I enjoy building full-stack applications, designing intuitive user interfaces, and exploring how software architecture and engineering principles can turn ideas into reliable products.
+
+My interests also include embedded systems, electronics, and technology applied to healthcare.
 
 ```text
-INTERESTS
+FOCUS
 ├── Software Engineering
-├── Web Development
-├── Backend Development
+├── Full-Stack Development
+├── Backend & System Design
 ├── Embedded Systems
-├── Electronics
 └── Health Technology
+
+STATUS: BUILDING, LEARNING, ITERATING.
 ```
+
+## `> selected_projects`
+
+A selection of projects where I explore different aspects of software engineering, from user experience to backend architecture.
+
+### [CLOTHESTORE](https://clothestore-phi.vercel.app/)
+
+**Full-Stack Streetwear E-commerce**
+
+A streetwear e-commerce platform built to explore full-stack development, REST API design, database persistence, and modern frontend experiences.
+
+`React` `TypeScript` `Fastify` `Prisma` `PostgreSQL`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://clothestore-phi.vercel.app/)
+[![Repository](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedrqca/CLOTHESTORE)
+
+### [Aura Fotografia](https://aura-photography.vercel.app/)
+
+**Photography Website**
+
+A photography-focused web experience built to present visual content through a polished interface and a cohesive visual identity.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://aura-photography.vercel.app/)
+
+### [ToDq List](https://todq-list.vercel.app/)
+
+**Task Management Application**
+
+A responsive task manager focused on organization, usability, and a clean interface, featuring custom categories, priority levels, search, filters, and persistent local data.
+
+`React` `TypeScript` `Vite` `CSS3` `LocalStorage`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://todq-list.vercel.app/)
+[![Repository](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedrqca/todq-list)
 
 ---
 
@@ -52,132 +74,58 @@ INTERESTS
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-171717?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C%2B%2B-171717?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-171717?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-171717?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-171717?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-171717?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-171717?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-171717?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
-### Backend & Tools
+### Backend, Databases & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-171717?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Maven-171717?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
-  <img src="https://img.shields.io/badge/Arduino-171717?style=for-the-badge&logo=arduino&logoColor=00979D" />
-  <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Fastify-171717?style=for-the-badge&logo=fastify&logoColor=FFFFFF" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Spring_Boot-171717?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-171717?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Arduino-171717?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
 </p>
 
 ---
 
-## `> featured_project`
+## `> beyond_the_screen`
 
-### `ToDq List`
+My interest in technology goes beyond web applications.
 
-> A modern and responsive task manager focused on **UX, organization and clean SaaS-style design**.
+I'm also interested in electronics, embedded systems, programming logic, and the relationship between hardware and software. These areas help me approach engineering problems from different perspectives.
 
-```text
-PROJECT
-└── ToDq List
-
-STACK
-├── React
-├── TypeScript
-├── Vite
-├── CSS3
-└── LocalStorage API
-
-FEATURES
-├── Dark / Light Mode
-├── Custom Categories
-├── Priority Levels
-├── Interactive Calendar
-├── Search & Dynamic Filters
-├── Persistent Local Data
-└── Responsive Design
-```
-
-<p>
-  <a href="https://github.com/pedrqca/todq-list">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://todq-list.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## `> github`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  PROFILE                                    │
-│  ├── github.com/pedrqca                     │
-│  └── Open source • Projects • Learning      │
-│                                              │
-│  ACTIVITY                                    │
-│  ├── Building projects                      │
-│  ├── Improving code                         │
-│  └── Learning every day                     │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/pedrqca?style=flat-square&logo=github&label=followers)](https://github.com/pedrqca?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/pedrqca?style=flat-square&logo=github&label=stars)](https://github.com/pedrqca?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=pedrqca&style=flat-square&color=8B5CF6&label=profile+views)](https://github.com/pedrqca)
-
-</div>
-
----
-
-## `> currently_learning`
-
-```text
-01  Software Architecture
-02  Backend Development
-03  React & TypeScript
-04  Embedded Systems
-05  Health Technology
-```
-
----
+I'm continuously improving my skills in software architecture, backend development, and building maintainable applications.
 
 ## `> connect`
 
-```bash
-┌──(pedrqca㉿github)-[~/contact]
-└─$ ./connect.sh
-
-[+] Portfolio : www.pedrqca.dev
-[+] LinkedIn  : linkedin.com/in/pedrqca
-[+] GitHub    : github.com/pedrqca
-```
+Interested in my work or want to collaborate on a project?
 
 <div align="center">
 
-```text
-────────────────────────────────────────────────────
+[![Portfolio](https://img.shields.io/badge/Portfolio-pedrqca.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pedrqca.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrqca/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrqca)
 
-              BUILD · LEARN · BREAK · FIX
+[![Profile Views](https://komarev.com/ghpvc/?username=pedrqca&style=flat-square&color=8B5CF6&label=profile+views)](https://github.com/pedrqca)
 
-────────────────────────────────────────────────────
-```
+**BUILD · LEARN · BREAK · FIX · REPEAT**
 
 </div>
